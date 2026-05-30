@@ -1,0 +1,145 @@
+[
+  {
+    "id": "task-001",
+    "title": "Design API schema for task board",
+    "priority": "P0",
+    "status": "done",
+    "createdAt": "2026-05-30T12:40:00.000Z",
+    "updatedAt": "2026-05-30T12:48:19.608Z",
+    "logs": [
+      "Created",
+      "Auto-run advanced to in-progress @ 2026-05-30T12:44:19.613Z",
+      "Auto-run advanced to testing @ 2026-05-30T12:46:19.606Z",
+      "Auto-run advanced to done @ 2026-05-30T12:48:19.608Z"
+    ],
+    "lastRunAt": "2026-05-30T12:48:19.608Z"
+  },
+  {
+    "id": "task-002",
+    "title": "Implement JSON storage layer",
+    "priority": "P1",
+    "status": "done",
+    "createdAt": "2026-05-30T12:41:00.000Z",
+    "updatedAt": "2026-05-30T12:54:19.611Z",
+    "logs": [
+      "Created",
+      "Auto-run advanced to in-progress @ 2026-05-30T12:50:19.611Z",
+      "Auto-run advanced to testing @ 2026-05-30T12:52:19.612Z",
+      "Auto-run advanced to done @ 2026-05-30T12:54:19.611Z"
+    ],
+    "lastRunAt": "2026-05-30T12:54:19.611Z"
+  },
+  {
+    "id": "task-003",
+    "title": "Build task board UI",
+    "priority": "P1",
+    "status": "done",
+    "createdAt": "2026-05-30T12:42:00.000Z",
+    "updatedAt": "2026-05-30T12:58:19.620Z",
+    "logs": [
+      "Created",
+      "Auto-run advanced to testing @ 2026-05-30T12:56:19.615Z",
+      "Auto-run advanced to done @ 2026-05-30T12:58:19.620Z"
+    ],
+    "lastRunAt": "2026-05-30T12:58:19.620Z"
+  },
+  {
+    "id": "task-004",
+    "title": "Add auto-run scheduler",
+    "priority": "P2",
+    "status": "done",
+    "createdAt": "2026-05-30T12:43:00.000Z",
+    "updatedAt": "2026-05-30T13:00:19.621Z",
+    "logs": [
+      "Created",
+      "Auto-run advanced to done @ 2026-05-30T13:00:19.621Z"
+    ],
+    "lastRunAt": "2026-05-30T13:00:19.621Z"
+  },
+  {
+    "id": "task-005",
+    "title": "Polish UI theme and copy",
+    "priority": "P3",
+    "status": "done",
+    "createdAt": "2026-05-30T12:44:00.000Z",
+    "updatedAt": "2026-05-30T12:44:00.000Z",
+    "logs": [
+      "Created"
+    ]
+  },
+  {
+    "id": "task-006",
+    "title": "Refine layout spacing and grid alignment",
+    "priority": "P0",
+    "status": "done",
+    "createdAt": "2026-05-30T13:02:00.000Z",
+    "updatedAt": "2026-05-30T13:12:19.639Z",
+    "logs": [
+      "Created",
+      "Auto-run advanced to in-progress @ 2026-05-30T13:10:19.639Z",
+      "Auto-run advanced to testing @ 2026-05-30T13:10:59.631Z",
+      "Auto-run advanced to done @ 2026-05-30T13:12:19.639Z"
+    ],
+    "lastRunAt": "2026-05-30T13:12:19.639Z"
+  },
+  {
+    "id": "task-007",
+    "title": "Introduce reusable button and badge styles",
+    "priority": "P1",
+    "status": "done",
+    "createdAt": "2026-05-30T13:03:00.000Z",
+    "updatedAt": "2026-05-30T13:14:50.576Z",
+    "logs": [
+      "Created",
+      "Auto-run advanced to in-progress @ 2026-05-30T13:12:54.638Z",
+      "Auto-run advanced to testing @ 2026-05-30T13:14:19.646Z",
+      "Auto-run advanced to done @ 2026-05-30T13:14:50.576Z"
+    ],
+    "lastRunAt": "2026-05-30T13:14:50.576Z"
+  },
+  {
+    "id": "task-008",
+    "title": "Add task detail panel with logs",
+    "priority": "P1",
+    "status": "done",
+    "createdAt": "2026-05-30T13:04:00.000Z",
+    "updatedAt": "2026-05-30T13:18:19.655Z",
+    "logs": [
+      "Created",
+      "Auto-run advanced to in-progress @ 2026-05-30T13:16:19.650Z",
+      "Auto-run advanced to testing @ 2026-05-30T13:16:50.602Z",
+      "Auto-run advanced to done @ 2026-05-30T13:18:19.655Z"
+    ],
+    "lastRunAt": "2026-05-30T13:18:19.655Z"
+  },
+  {
+    "id": "task-009",
+    "title": "Improve empty states and loading skeletons",
+    "priority": "P2",
+    "status": "done",
+    "createdAt": "2026-05-30T13:05:00.000Z",
+    "updatedAt": "2026-05-30T13:21:02.954Z",
+    "logs": [
+      "Created",
+      "Auto-run advanced to in-progress @ 2026-05-30T13:18:51.691Z",
+      "Auto-run advanced to testing @ 2026-05-30T13:20:19.656Z",
+      "Auto-run advanced to done @ 2026-05-30T13:21:02.954Z"
+    ],
+    "lastRunAt": "2026-05-30T13:21:02.954Z"
+  },
+  {
+    "id": "task-010",
+    "title": "Add dark/light mode toggle",
+    "priority": "P3",
+    "status": "done",
+    "createdAt": "2026-05-30T13:06:00.000Z",
+    "updatedAt": "2026-05-30T13:24:19.662Z",
+    "logs": [
+      "Created",
+      "Auto-run advanced to in-progress @ 2026-05-30T13:22:19.657Z",
+      "Auto-run advanced to testing @ 2026-05-30T13:22:56.259Z",
+      "Auto-run advanced to done @ 2026-05-30T13:24:19.662Z"
+    ],
+    "lastRunAt": "2026-05-30T13:24:19.662Z"
+  }
+]
